@@ -1,4 +1,4 @@
-For a better experience on reading this, open from: [Github](https://github.com/farlhmd/hacktiv8_katalonstudio_automated_testing/tree/main/Sesi%202/Assignment%201/Demo%20BFI-Cura)
+For a better experience on reading this, open from: [Github](https://github.com/farlhmd/Assignment1WebAutomationTesting)
 
 
 ## Running Automation Test with Katalon Studio
@@ -6,7 +6,7 @@ For a better experience on reading this, open from: [Github](https://github.com/
 
 Clone this project
 ```bash
-  git clone https://github.com/farlhmd/hacktiv8_katalonstudio_automated_testing
+  git clone https://github.com/farlhmd/Assignment1WebAutomationTesting
 ```
 Open Katalon Studio, then point to folder that you already clone
 ### Test(s)
